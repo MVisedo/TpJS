@@ -1,0 +1,9 @@
+.pblue{
+  color: blue;
+}
+div{
+  background-color:rgb(205, 234, 250);
+  padding: 1rem;
+  margin: 2rem;
+  border-radius: 30px;
+}
